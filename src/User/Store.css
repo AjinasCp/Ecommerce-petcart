@@ -1,0 +1,31 @@
+/* Styles for the container and heading */
+.container {
+    padding: 20px;
+  }
+  h1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+  
+  /* Styles for the cards and hover effect */
+  .card {
+    max-width: 48rem;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .card-title {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 16px;
+    color: #555;
+  }
+/* Add this CSS to center the heading at the top */

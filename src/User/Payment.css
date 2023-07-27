@@ -1,0 +1,120 @@
+/* PaymentSuccess.css
+
+.payment-success-container {
+    text-align: center;
+    margin: 50px auto;
+    max-width: 600px;
+    border: 1px solid #ccc;
+    padding: 30px;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+  }
+  
+  .payment-success-container h1 {
+    font-size: 36px;
+    color: darkseagreen;
+    margin-bottom: 20px;
+  }
+  
+  .payment-success-container p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .payment-success-container img {
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+  }
+  
+   */
+
+   /* Payment.css */
+/* .payment-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .payment-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .payment-form label {
+    margin-bottom: 10px;
+  }
+  
+  .payment-form input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 15px;
+  }
+  
+  .flex-row {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+   */
+
+
+   /* Payment.css */
+.payment-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .payment-container h2 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .payment-form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .payment-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .flex-row {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    width: 100%;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  

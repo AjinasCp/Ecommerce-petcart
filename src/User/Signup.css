@@ -1,0 +1,68 @@
+/* Signup.css */
+.signup-container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 25px;
+    border: 5px solid #ccc;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .signup-container h2 {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 20px;
+    color: darkseagreen;
+  }
+  
+  .signup-container form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: darkseagreen;
+  }
+  
+  .signup-container form input[type="text"],
+  .signup-container form input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    color: darkseagreen;
+  }
+  
+  .signup-container form button {
+    width: 100%;
+    padding: 12px;
+    background-color: darkseagreen;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .signup-container form button:hover {
+    background-color: darkslategray;
+  }
+  
+  .signup-container div {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .signup-container div a {
+    text-decoration: none;
+    color: darkseagreen;
+    font-size: 15px;
+    transition: color 0.3s ease;
+  }
+  
+  .signup-container div a:hover {
+    color: darkslategray;
+  }
+  

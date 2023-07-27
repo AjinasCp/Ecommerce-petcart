@@ -1,0 +1,61 @@
+/* Viewproduct.css */
+
+.container {
+    margin-top: 20px;
+  }
+  
+  .card {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .card-img-top {
+    height: 300px;
+    object-fit: cover;
+  }
+  
+  .card-title {
+    margin-bottom: 10px;
+  }
+  
+  .card-text {
+    font-size: 16px;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-body h2 {
+    font-size: 24px;
+    margin-bottom: 5px;
+  }
+  
+  .card-body h5 {
+    font-size: 18px;
+    color: #777;
+    margin-bottom: 15px;
+  }
+  
+  .card-body h3 {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .card-body p {
+    margin-bottom: 20px;
+  }
+  
+  .btn-primary {
+    background-color: darkseagreen;
+    border-color: darkseagreen;
+  }
+  
+  .btn-primary:hover {
+    background-color: #207754;
+    border-color: #207754;
+  }
+  
+  /* Add media queries for responsiveness if needed */
+  
